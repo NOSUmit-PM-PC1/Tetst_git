@@ -12,6 +12,8 @@ namespace Tetst_git
         {
             Console.WriteLine("hello word");
             Console.WriteLine("testGit");
+            string s = Console.ReadLine();
+            Console.WriteLine(s);
         }
     }
 }
