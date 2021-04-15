@@ -11,6 +11,7 @@ namespace Tetst_git
         static void Main(string[] args)
         {
             Console.WriteLine("hello word");
+            Console.WriteLine("testGit");
         }
     }
 }
