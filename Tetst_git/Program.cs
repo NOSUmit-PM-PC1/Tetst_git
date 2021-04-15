@@ -19,6 +19,7 @@ namespace Tetst_git
             Console.WriteLine("testGit");
             string s = Console.ReadLine();
             Console.WriteLine(s);
+            print();
         }
     }
 }
